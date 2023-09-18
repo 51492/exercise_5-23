@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  padding: 30px 20px;
+  background-color: #ff00ff;
+}
+
+.logo{
+  width: 140px;
+  height: 70px;
+  background-color: #fbb3ff;
+}
+
+.menu{
+  height: 70px;
+  background-color: #fbb3ff;
+}
+
+.sidebar{
+  background-color: #d8ffb6;
+}
+
+.box_all{
+  padding: 10px;
+  background-color: #00b522;
+}
+
+.box_row{
+  padding: 10px 0px;
+}
+.box{
+  height: 130px;
+  background-color: #fff75a;
+}
+
+footer{
+  padding: 10px;
+  background-color: #52a1ff;
+}
+
+.footer{
+  margin: 10px;
+  height: 40px;
+  background-color: #b6e7ff;
+}
+
+.footer_row{
+  padding: 10px;
+}
